@@ -2,6 +2,7 @@
 Help by contributing to the translation of Money Clicker 2 in order to make the game more accessible to people from different countries and languages. 
 
 Links to the Google Sheet files:
+
 **App-Translation**
 https://docs.google.com/spreadsheets/d/1EQmBQEsTE6r3D6whJU98yYTd1YUW93k-WFdLE707ZHU/edit?usp=sharing
 
